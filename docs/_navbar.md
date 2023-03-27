@@ -1,0 +1,10 @@
+* [Main](/)
+    * [sing](sing.md)
+    * [dance](dance.md)
+    * [guide](guide.md)
+
+* [Another](/another/)
+    * [sing](/another/sing.md)
+    * [dance](/another/dance.md)
+    * [guide](/another/guide.md)
+    * [more](https://www.baidu.com/)
